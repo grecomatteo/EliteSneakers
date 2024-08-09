@@ -1,8 +1,29 @@
 # EliteSneakers
-Benvenuti nel repository di EliteSneakers, un progetto di e-commerce dedicato alla vendita di sneakers esclusive. 
 
-EliteSneakers è un'applicazione web che offre agli appassionati di sneakers la possibilità di acquistare le ultime edizioni limitate e modelli esclusivi di sneakers. 
+Welcome to the **EliteSneakers** repository, a web application dedicated to the sale of exclusive sneakers.
 
-Il progetto mira a creare un'esperienza di shopping online fluida e coinvolgente per gli utenti, fornendo informazioni dettagliate sui prodotti e una semplice procedura di acquisto.
+## Project Overview
 
-Questo progetto è stato ideato da Samuele Russo e Matteo Greco.
+**EliteSneakers** is an e-commerce platform designed for sneaker enthusiasts to purchase the latest limited editions and exclusive sneaker models. The application aims to provide a smooth and engaging online shopping experience, offering detailed product information and a simple purchasing process.
+
+## Course Information
+
+This project was developed as part of the "Software Technologies for the Web" course. It showcases the application of Java Servlet technology for the backend and utilizes the MVC (Model-View-Controller) architecture to manage data and handle user interactions.
+
+## Technologies Used
+
+- **Java Servlets**: For backend development, handling server-side logic and data processing.
+- **MVC Architecture**: To separate concerns and streamline the management of data, presentation, and user input.
+
+## Contributors
+
+- **Samuele Russo**
+- **Matteo Greco**
+
+## Getting Started
+
+To get started with EliteSneakers, follow these steps:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/grecomatteo/EliteSneakers.git
