@@ -22,8 +22,8 @@ This project was developed as part of the "Software Technologies for the Web" co
 
 ## Getting Started
 
-If you want to try it clone the repository;
+If you want to try it clone the repository.
 
-1. **Clone the Repository**:
+- **Clone the Repository**:
    ```bash
    git clone https://github.com/grecomatteo/EliteSneakers.git
