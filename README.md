@@ -22,7 +22,7 @@ This project was developed as part of the "Software Technologies for the Web" co
 
 ## Getting Started
 
-To get started with EliteSneakers, follow these steps:
+If you want to try it clone the repository;
 
 1. **Clone the Repository**:
    ```bash
